@@ -16,8 +16,6 @@ I am a Master of Applied Data Science student at the **University of Southern Ca
 
 
 
-
-
 ## 💻 Technical Skills
 
 **Languages:** Python (Flask, Django, Pandas, Matplotlib), C++, Java, SQL
@@ -45,7 +43,9 @@ Upper Second Class Honours | GPA 3.7
 
 ## 🏢 Internship Experience
 
-### **Software Development Intern — Lilith Games**
+### **Software Development Intern**
+
+<a href="https://www.lilith.com/?locale=en_US"><img src="https://lilithimage.lilithcdn.com/allgames-official-web/lilith/pc/cn/en-logo.png" height="23px"></img></a> [LilithGames](https://www.lilith.com/?locale=en_US**)
 
 *May 2025 – Aug 2025 · Shanghai*
 
@@ -55,7 +55,9 @@ Upper Second Class Honours | GPA 3.7
 - Built analytics platform with uni‑app + Vue and ECharts for interactive visualization.
 - Integrated Android DeepLink navigation and extended table components with progress visualization.
 
-### **Front‑end Development Intern — Electronic Soul Network Tech Co.**
+### **Front‑end Development Intern**
+
+<a href="https://www.e-soul.net/"><img src="https://www.dianhun.cn/images/dh-logo-black.png" height="23px"></img></a> [Electronic Soul Network Tech Co.](https://www.e-soul.net/)
 
 *Aug 2023 – Nov 2023 · Hangzhou*
 
@@ -64,7 +66,9 @@ Upper Second Class Honours | GPA 3.7
 - Built interactive official page for **Barbarq** using jQuery, ModalJS, and swiperJS.
 - Co‑maintained **The Wandering Ark** site using Vue.js.
 
-### **Software Development Intern — BrainCo**
+### **Software Development Intern**
+
+<a href="https://brainco.tech/#/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/BrainCo.png" height="23px"></img></a>[BrainCo](https://brainco.tech/#/)
 
 *Jun 2022 – Aug 2022 · Hangzhou*
 
